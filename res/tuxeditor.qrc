@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Dark.css</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>Gray.css</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>tuxeditor.jpg</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>save.png</file>
+        <file>tuxeditor.png</file>
+        <file>widget_border.png</file>
+    </qresource>
+</RCC>
